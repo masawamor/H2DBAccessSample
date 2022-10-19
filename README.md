@@ -1,5 +1,7 @@
 # H2DBAccessSample
 
+インメモリH2DBにアクセスするサンプル。
+
 pom.xml
 
 ```
